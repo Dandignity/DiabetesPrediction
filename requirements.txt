@@ -1,0 +1,13 @@
+streamlit
+pandas
+matpplotlib.pyplot
+sklearn.metrics
+sklearn.model_selection
+train_test_split
+sklearn.ensemble
+RandomForestClassifier
+sklearn.neighbors
+KNeighborsClassifier
+sklearn.linear_model
+LogisticRegression
+seaborn
